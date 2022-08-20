@@ -8,3 +8,9 @@
 - [Portfolio](https://my-dynamic-portfolio2.herokuapp.com/)
 
 <br>
+
+ # Week 1 : Intro and Get Started
+
+**Week [1] Branch -> :** [go to](https://github.com/mmshehata2/Typescript-BootCamp/tree/week_1/week_1)
+
+<br>
