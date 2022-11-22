@@ -9,12 +9,13 @@
 
 <br>
 
- # Week 1 : Intro and Get Started
+ > # Week 1 : Intro and Get Started
 
 **Week [1] Branch -> :** [go to](https://github.com/mmshehata2/Typescript-BootCamp/tree/week_1/week_1)
 
 <br>
- # Week 2 : Data Types
+
+ > # Week 2 : Data Types
 
 **Week [1] Branch -> :** [go to](https://github.com/mmshehata2/Typescript-BootCamp/tree/week_2/week_2)
 
