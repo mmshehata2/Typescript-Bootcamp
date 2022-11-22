@@ -14,3 +14,8 @@
 **Week [1] Branch -> :** [go to](https://github.com/mmshehata2/Typescript-BootCamp/tree/week_1/week_1)
 
 <br>
+ # Week 2 : Data Types
+
+**Week [1] Branch -> :** [go to](https://github.com/mmshehata2/Typescript-BootCamp/tree/week_2/week_2)
+
+<br>
