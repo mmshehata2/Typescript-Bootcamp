@@ -17,6 +17,12 @@
 
  > # Week 2 : Data Types
 
-**Week [1] Branch -> :** [go to](https://github.com/mmshehata2/Typescript-BootCamp/tree/week_2/week_2)
+**Week [2] Branch -> :** [go to](https://github.com/mmshehata2/Typescript-BootCamp/tree/week_2/week_2)
+
+<br>
+
+> # Week 3 : Classes And Interfaces
+
+**Week [3] Branch -> :** [go to](https://github.com/mmshehata2/Typescript-BootCamp/tree/week_3/week_3)
 
 <br>
